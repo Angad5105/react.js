@@ -35,7 +35,7 @@ management principles. </p>
 <p>It will also help in predicting and keeping records of the heath problems and trending medicies available and what do people usually buy.</p>
 
 <h1>Resources</h1>
-<h3><a href="https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html">Lynda</a></li></h3>
+<h3><a href="https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html">Lynda</a></h3>
 <h3><a href="https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS">Youtube</a></h3>
 
 <h3><a href="https://www.udemy.com/react-redux/learn/v4/overview">Udemy</a></h3>
