@@ -39,24 +39,9 @@ management principles. </p>
 ![express-scripts-2016-specialty-drug-trend-feb-2017-vs-cpi-and-generics-1-e1487169775288](https://user-images.githubusercontent.com/24455909/46566859-88019c00-c8db-11e8-9086-29ed792fdc99.png)
 
 <h1>User Stories</h1>
- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-
-<div class="grid grid-pad">
-    <div class="col-1-3">
-       <div class="content">
-           <h3>col-1-3</h3>
-       </div>
-    </div><div class="col-1-3">
-       <div class="content">
-           <h3>col-1-3</h3>
-       </div>
-    </div><div class="col-1-3">
-       <div class="content">
-           <h3>col-1-3</h3>
-       </div>
-    </div>
-</div>
-
+ 
+ ![user](https://user-images.githubusercontent.com/24455909/46567288-686f7100-c8e5-11e8-9994-e70eadb5077a.jpg)
+ 
 
 <h1>Resources</h1>
 <h3><a href="https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html">Lynda</a></h3>
