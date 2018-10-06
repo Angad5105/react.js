@@ -32,7 +32,31 @@ management principles. </p>
 <li>Companies</li>
 </ul>
 
+![react-native-d3multiline-chart](https://user-images.githubusercontent.com/24455909/46566837-00b42880-c8db-11e8-8c00-397b3c5316b4.png)
+
 <p>It will also help in predicting and keeping records of the heath problems and trending medicies available and what do people usually buy.</p>
+
+![express-scripts-2016-specialty-drug-trend-feb-2017-vs-cpi-and-generics-1-e1487169775288](https://user-images.githubusercontent.com/24455909/46566859-88019c00-c8db-11e8-9086-29ed792fdc99.png)
+
+<h1>User Stories</h1>
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<div class="grid grid-pad">
+    <div class="col-1-3">
+       <div class="content">
+           <h3>col-1-3</h3>
+       </div>
+    </div><div class="col-1-3">
+       <div class="content">
+           <h3>col-1-3</h3>
+       </div>
+    </div><div class="col-1-3">
+       <div class="content">
+           <h3>col-1-3</h3>
+       </div>
+    </div>
+</div>
+
 
 <h1>Resources</h1>
 <h3><a href="https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html">Lynda</a></h3>
