@@ -40,7 +40,7 @@ management principles. </p>
 
 <h1>User Stories</h1>
  
- ![user](https://user-images.githubusercontent.com/24455909/46567288-686f7100-c8e5-11e8-9994-e70eadb5077a.jpg)
+ ![user1](https://user-images.githubusercontent.com/24455909/46567396-3bbc5900-c8e7-11e8-9305-ab00c97af86c.jpg)
  
 
 <h1>Resources</h1>
