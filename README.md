@@ -48,3 +48,17 @@ management principles. </p>
 <h3><a href="https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS">Youtube</a></h3>
 
 <h3><a href="https://www.udemy.com/react-redux/learn/v4/overview">Udemy</a></h3>
+
+
+<h1>Final Prototype</h1>
+
+<p>After learning react from some of the tutorials and doind basic coding examples, I created a prototype of Calculator using react js by following another tutorial on youtube. </p>
+ 
+ <img width="333" alt="screen shot 2018-10-11 at 3 05 45 am" src="https://user-images.githubusercontent.com/24455909/46901966-bcdc9880-ce71-11e8-90ab-fc3b84ee1f85.png">
+
+
+<img width="680" alt="screen shot 2018-10-11 at 10 45 34 am" src="https://user-images.githubusercontent.com/24455909/46901973-d7167680-ce71-11e8-877c-e1b72ef9471f.png">
+
+
+
+
