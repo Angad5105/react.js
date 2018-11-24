@@ -66,3 +66,28 @@ management principles. </p>
 ![story](https://user-images.githubusercontent.com/24455909/47251051-421bfc00-d3e2-11e8-8745-0a754b52c0d4.jpg)
 
 
+<h1>Progress Report</h1>
+
+<p> In this stage of the final project we are almost done with are front-end and back-end. I used fusion charts in the project as a part of react and our back-end work is almost done.</p>
+ 
+ 
+ <h2>Some screenshots of thr work we have done.</h2>
+ 
+ ![tabletview2](https://user-images.githubusercontent.com/24455909/48965743-b9abf080-ef77-11e8-8e81-7230c373bc22.PNG)
+
+
+![scaled-dashboard-mobile](https://user-images.githubusercontent.com/24455909/48965744-c92b3980-ef77-11e8-8051-8cb763e841f5.PNG)
+
+
+![tabetview](https://user-images.githubusercontent.com/24455909/48965746-d6e0bf00-ef77-11e8-857e-98cb7bc32e4a.png)
+
+
+![login](https://user-images.githubusercontent.com/24455909/48965748-e3651780-ef77-11e8-9623-3527cf7818bf.PNG)
+
+ 
+<h1>Backlog</h1>
+
+<p>The difficilty we are facing right now is work load and time.
+
+
+
