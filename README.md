@@ -90,4 +90,9 @@ management principles. </p>
 <p>The difficilty we are facing right now is work load and time.
 
 
+<h1>95% Progress Report</h1>
+
+
+<h2>Summary</h2>
+<p>We are working on project name Medler which is basically a pharmacy management system of sales and stocks which will be used by various pharmasicst. In this project I am resposible for the front-end part using HTML, CSS, Bootstrap, Jquery and managing the database at the back-end using php and Mysql.</p>
 
