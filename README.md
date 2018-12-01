@@ -6,7 +6,7 @@
 
 
 <h1>How react is useful?</h1>
-<p>React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API</p>
+<p>React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API.</p>
 
 ![react2](https://user-images.githubusercontent.com/24455909/45919987-f3b32600-be52-11e8-9f6e-76f9d0a72f5f.jpeg)
 
@@ -19,6 +19,9 @@ in its output.</p>
 
 <p>React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”. Importantly, each component in a React app abides y strict data
 management principles. </p>
+
+<h1>How react will help?</h1>
+<p>This term we are working on a project called medler which is related to pharmacy management system and we can use fusion charts with react to show the data visualization.</p>
 
 
 <h1>Prototype</h1>
@@ -43,7 +46,8 @@ management principles. </p>
 
 <p>It will also help in predicting and keeping records of the heath problems and trending medicies available and what do people usually buy.</p>
 
-![express-scripts-2016-specialty-drug-trend-feb-2017-vs-cpi-and-generics-1-e1487169775288](https://user-images.githubusercontent.com/24455909/46566859-88019c00-c8db-11e8-9086-29ed792fdc99.png)
+<img width="776" alt="screen shot 2018-12-01 at 3 27 49 am" src="https://user-images.githubusercontent.com/24455909/49327690-192a7300-f519-11e8-8885-e6b450ffca34.png">
+
 
 
 <h1>User Stories</h1>
