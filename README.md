@@ -23,6 +23,7 @@ management principles. </p>
 
 <h1>Prototype</h1>
 
+<h2>Prototype Idea</h2>
 <p>We are working on a project called Pharmacy Management System, in which our motive is to provide a simple interface of pharmacy management system to the pharmacy owners in some specific countries in Asia. It will be usefull in maintaining the pharmacy records like:</p>
 <ul>
 <li>Sales</li>
@@ -32,11 +33,17 @@ management principles. </p>
 <li>Companies</li>
 </ul>
 
+<h2>Idea</h2>
+<p>My resposibilityis to work on the front-end of the project using React, HTML, CSS, Javascript to enhance the working of our web application.</p>
+
+
+<h2>Mockups</h2>
 ![react-native-d3multiline-chart](https://user-images.githubusercontent.com/24455909/46566837-00b42880-c8db-11e8-8c00-397b3c5316b4.png)
 
 <p>It will also help in predicting and keeping records of the heath problems and trending medicies available and what do people usually buy.</p>
 
 ![express-scripts-2016-specialty-drug-trend-feb-2017-vs-cpi-and-generics-1-e1487169775288](https://user-images.githubusercontent.com/24455909/46566859-88019c00-c8db-11e8-9086-29ed792fdc99.png)
+
 
 <h1>User Stories</h1>
  
