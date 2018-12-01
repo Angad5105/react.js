@@ -49,6 +49,11 @@ management principles. </p>
 
 <h3><a href="https://www.udemy.com/react-redux/learn/v4/overview">Udemy</a></h3>
 
+<h1>75% PROGRESS REPORT</h1>
+
+
+![progress](https://user-images.githubusercontent.com/24455909/46568291-fd2e9a80-c8f6-11e8-990c-36ea78587faf.jpg)
+
 
 <h1>Final Prototype</h1>
 
@@ -88,6 +93,43 @@ management principles. </p>
 <h1>Backlog</h1>
 
 <p>The difficilty we are facing right now is work load and time.
+ 
+ <h1>40% Progress Report</h1>
+
+
+<h2>Summary</h2>
+<p>We are working on project name Medler which is basically a pharmacy management system of sales and stocks which will be used by various pharmasicst. In this project I am resposible for the front-end part using HTML, CSS, Bootstrap, Jquery and managing the database at the back-end using php and Mysql.</p>
+
+<h2>Retrospective</h2>
+<p>As of now I ahve started my work on the login and signup front-end properties as when user login it make sure everything is right as well as in signup that email is already used or not. On the other hand I am also learning react by watching tutorial on Lynda.com and Youtube.</p>
+   
+  <img width="230" alt="screen shot 2018-12-01 at 1 26 49 am" src="https://user-images.githubusercontent.com/24455909/49326523-399e0180-f508-11e8-8b1c-8e0a32e4ca26.png">
+
+<img width="331" alt="screen shot 2018-12-01 at 1 26 59 am" src="https://user-images.githubusercontent.com/24455909/49326525-4b7fa480-f508-11e8-89f6-6939bc893b3a.png">
+
+<h2>This Week</h2>
+<p> This week I will be done with the login and signup and start with the home landing page.</p>
+ 
+ <h2>What went well?</h2>
+ <p>The login and signup criteria worked as we hoped.</p>
+ 
+ <h2>What went wrong?</h2>
+ <p>The plans of changing the technogy of not using react affected a lot on all aspects especially on directed studies and the time.</p>
+ 
+ <h2>What needs to be improved?</h2>
+ <p>Probably need a lot of coding practice. I am little slow in programming. I was learning react at my speed but with in between change of the project honestly I also lost the interest and started focusing on other things like working on front-end and managing the database.</p>
+ 
+ <h2>What is next?</h2>
+ <p>I will surely start reactjs again and also while doing this project I gained more interest in database, so I am going to work on data administration too.</p> 
+ 
+  <h2>What would be done differently?</h2>
+  <p> Honestly working in this project I like to work on database maybe that would be the better thing I would have done in the first place.</p>
+  
+  
+ <h2>Product Backlog</h2>
+ 
+ <img width="933" alt="screen shot 2018-11-30 at 4 54 42 pm" src="https://user-images.githubusercontent.com/24455909/49322087-d3da5700-f4c0-11e8-9aad-a3e5dba0279c.png">
+
  
  <h1>60% Progress Report</h1>
  <h2>Summary</h2>
