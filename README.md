@@ -70,6 +70,32 @@ management principles. </p>
 
 ![story](https://user-images.githubusercontent.com/24455909/47251051-421bfc00-d3e2-11e8-8745-0a754b52c0d4.jpg)
 
+ <h1>20% Progress Report</h1>
+
+
+<h2>Summary</h2>
+<p>We are working on project name Medler which is basically a pharmacy management system of sales and stocks which will be used by various pharmasicst. In this project I am resposible for the front-end part using HTML, CSS, Bootstrap, Jquery and managing the database at the back-end using php and Mysql.</p>
+
+<h2>Retrospective</h2>
+<p>As of now I have started the research on react and started practicing some of the programs by following the tutorials on 
+lynda.com and Youtube. I have decided to continue with the react.</p>
+
+<h2>What's next?</h2>
+<p>My plan is to use react in the project as for login and signup as well as fusion charts for the data visualization.</p>
+ 
+ <h2>What went well?</h2>
+ <p>I am reviewing the tutorials of react working with fusion charts so that we can start the main part of our project.</p>
+ 
+ <h2>What needs to be improved?</h2>
+ <p>I need to improve the my coding methods and time management.</p>
+ 
+ <h2>What is next?</h2>
+ <p>Looking further to work on the front-end of the project as well as back-end with other teamates.</p> 
+  
+ <h2>Product Backlog</h2>
+
+<img width="931" alt="screen shot 2018-12-01 at 2 26 46 am" src="https://user-images.githubusercontent.com/24455909/49327049-93a2c500-f510-11e8-8307-92bb6ddd865a.png">
+
  
  <h1>40% Progress Report</h1>
 
