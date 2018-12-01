@@ -54,6 +54,10 @@ management principles. </p>
 
 ![progress](https://user-images.githubusercontent.com/24455909/46568291-fd2e9a80-c8f6-11e8-990c-36ea78587faf.jpg)
 
+<h2>KANBAN BACKLOG</h2>
+
+<img width="1245" alt="screen shot 2018-12-01 at 3 05 53 am" src="https://user-images.githubusercontent.com/24455909/49327414-301b9600-f516-11e8-994f-2207c7da6577.png">
+
 
 <h1>Final Prototype</h1>
 
@@ -71,6 +75,7 @@ management principles. </p>
   
   <h2>Project User Stories</h2>
   <p>As a user they can make their profile and start using the dashboard according to their needs like manage stocks, sales, brands, deliveries.</p>
+  
   
   <p>The pharmacist will provide all the information regarding pharmacy as well as has control over entering the data of the live stock.</p>
   
