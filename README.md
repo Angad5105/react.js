@@ -96,3 +96,15 @@ management principles. </p>
 <h2>Summary</h2>
 <p>We are working on project name Medler which is basically a pharmacy management system of sales and stocks which will be used by various pharmasicst. In this project I am resposible for the front-end part using HTML, CSS, Bootstrap, Jquery and managing the database at the back-end using php and Mysql.</p>
 
+<h2>Retrospective</h2>
+<p>As of now we are almost done with our project, just few things left like:</p>
+   <p>1: Connecting home landing page with our back-end so that we can make a demo of fully functional demo of login and signup.</p>
+   <p>2: On the other hand I am working on fully functional google maps to show that in our contact form.</p>
+
+<h2>This Week</h2>
+<p> As tyler suggested me to make some changes in styles of the front-end, so going to do that.</p>
+ 
+ <h2>What went well?</h2>
+ <p>All the things are working fine on my part of front-end. Things are working in systematic way, just need add some fixes in google map.</p>
+ 
+ <h2>What went well?</h2>
