@@ -38,7 +38,8 @@ management principles. </p>
 
 
 <h2>Mockups</h2>
-![react-native-d3multiline-chart](https://user-images.githubusercontent.com/24455909/46566837-00b42880-c8db-11e8-8c00-397b3c5316b4.png)
+
+<img width="858" alt="screen shot 2018-12-01 at 3 26 40 am" src="https://user-images.githubusercontent.com/24455909/49327682-f26c3c80-f518-11e8-93f5-475eb7233c00.png">
 
 <p>It will also help in predicting and keeping records of the heath problems and trending medicies available and what do people usually buy.</p>
 
