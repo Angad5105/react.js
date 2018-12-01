@@ -57,18 +57,37 @@ management principles. </p>
 
 <h1>Final Prototype</h1>
 
-<p>After learning react from some of the tutorials and doind basic coding examples, I created a prototype of Calculator using react js by following another tutorial on youtube. </p>
+
+<h2>Overview</h2>
+<p>We are working on project name Medler which is basically a pharmacy management system of sales and stocks which will be used by various pharmasicst. In this project I am resposible for the front-end part using HTML, CSS, Bootstrap, Jquery and managing the database at the back-end using php and Mysql.</p>
  
- <img width="333" alt="screen shot 2018-10-11 at 3 05 45 am" src="https://user-images.githubusercontent.com/24455909/46901966-bcdc9880-ce71-11e8-90ab-fc3b84ee1f85.png">
+ <p>I will be designing home landing page and a user management system for our web application Medler. It is basically login and signup.</p>
+ 
+ <h2>Features</h2>
+  <p>1: User will go to the front page of the application where they can get an overview of the app.</p>
+  <p>2: User can signup thourgh the front page to use the app.</p>
+  <p>3: User will Signin first and then can use their dashboard.</p>
+  <p>4: User can update their profile.</p>
+  
+  <h2>Project User Stories</h2>
+  <p>As a user they can make their profile and start using the dashboard according to their needs like manage stocks, sales, brands, deliveries.</p>
+  
+  <p>The pharmacist will provide all the information regarding pharmacy as well as has control over entering the data of the live stock.</p>
+  
+  <p>The administrator will provide full service reagarding the app and will give the control to the pharmacist according to the plan they buy.</p>
+  
+  <h2>Mockup</h2>
+  
+  <img width="837" alt="screen shot 2018-12-01 at 12 10 42 am" src="https://user-images.githubusercontent.com/24455909/49327297-a919ee00-f514-11e8-8433-145e4e91b31f.png">
 
-
-<img width="680" alt="screen shot 2018-10-11 at 10 45 34 am" src="https://user-images.githubusercontent.com/24455909/46901973-d7167680-ce71-11e8-877c-e1b72ef9471f.png">
-
+<img width="865" alt="screen shot 2018-12-01 at 2 57 01 am" src="https://user-images.githubusercontent.com/24455909/49327306-d23a7e80-f514-11e8-8d32-2499c822e80d.png">
 
 
 <h1>Project User Stories</h1>
 
 ![story](https://user-images.githubusercontent.com/24455909/47251051-421bfc00-d3e2-11e8-8745-0a754b52c0d4.jpg)
+
+
 
  <h1>20% Progress Report</h1>
 
