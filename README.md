@@ -70,29 +70,6 @@ management principles. </p>
 
 ![story](https://user-images.githubusercontent.com/24455909/47251051-421bfc00-d3e2-11e8-8745-0a754b52c0d4.jpg)
 
-
-<h1>Progress Report</h1>
-
-<p> In this stage of the final project we are almost done with are front-end and back-end. I used fusion charts in the project as a part of react and our back-end work is almost done.</p>
- 
- 
- <h2>Some screenshots of thr work we have done.</h2>
- 
- ![tabletview2](https://user-images.githubusercontent.com/24455909/48965743-b9abf080-ef77-11e8-8e81-7230c373bc22.PNG)
-
-
-![scaled-dashboard-mobile](https://user-images.githubusercontent.com/24455909/48965744-c92b3980-ef77-11e8-8051-8cb763e841f5.PNG)
-
-
-![tabetview](https://user-images.githubusercontent.com/24455909/48965746-d6e0bf00-ef77-11e8-857e-98cb7bc32e4a.png)
-
-
-![login](https://user-images.githubusercontent.com/24455909/48965748-e3651780-ef77-11e8-9623-3527cf7818bf.PNG)
-
- 
-<h1>Backlog</h1>
-
-<p>The difficilty we are facing right now is work load and time.
  
  <h1>40% Progress Report</h1>
 
@@ -101,7 +78,7 @@ management principles. </p>
 <p>We are working on project name Medler which is basically a pharmacy management system of sales and stocks which will be used by various pharmasicst. In this project I am resposible for the front-end part using HTML, CSS, Bootstrap, Jquery and managing the database at the back-end using php and Mysql.</p>
 
 <h2>Retrospective</h2>
-<p>As of now I ahve started my work on the login and signup front-end properties as when user login it make sure everything is right as well as in signup that email is already used or not. On the other hand I am also learning react by watching tutorial on Lynda.com and Youtube.</p>
+<p>As of now I have started my work on the login and signup front-end properties as when user login it make sure everything is right as well as in signup that email is already used or not. On the other hand I am also learning react by watching tutorial on Lynda.com and Youtube.</p>
    
   <img width="230" alt="screen shot 2018-12-01 at 1 26 49 am" src="https://user-images.githubusercontent.com/24455909/49326523-399e0180-f508-11e8-8b1c-8e0a32e4ca26.png">
 
@@ -114,21 +91,18 @@ management principles. </p>
  <p>The login and signup criteria worked as we hoped.</p>
  
  <h2>What went wrong?</h2>
- <p>The plans of changing the technogy of not using react affected a lot on all aspects especially on directed studies and the time.</p>
+ <p>I am facing difficulty to integrate react with server side. This is main problem we are worried about as all of us except one member took react as main subject.</p>
  
  <h2>What needs to be improved?</h2>
- <p>Probably need a lot of coding practice. I am little slow in programming. I was learning react at my speed but with in between change of the project honestly I also lost the interest and started focusing on other things like working on front-end and managing the database.</p>
+ <p>Need to clear more logics as I learn programming little bit slow and I am trying to learn a technology first time on my own.</p>
  
  <h2>What is next?</h2>
- <p>I will surely start reactjs again and also while doing this project I gained more interest in database, so I am going to work on data administration too.</p> 
- 
-  <h2>What would be done differently?</h2>
-  <p> Honestly working in this project I like to work on database maybe that would be the better thing I would have done in the first place.</p>
-  
+ <p>Looking further to work on the front-end of the project as well as back-end with other teammates.</p> 
   
  <h2>Product Backlog</h2>
  
- <img width="933" alt="screen shot 2018-11-30 at 4 54 42 pm" src="https://user-images.githubusercontent.com/24455909/49322087-d3da5700-f4c0-11e8-9aad-a3e5dba0279c.png">
+<img width="937" alt="screen shot 2018-12-01 at 1 48 15 am" src="https://user-images.githubusercontent.com/24455909/49326712-41ab7080-f50b-11e8-9ab7-beec3c9c1f5d.png">
+
 
  
  <h1>60% Progress Report</h1>
