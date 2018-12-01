@@ -110,4 +110,14 @@ management principles. </p>
  <h2>What went well?</h2>
  <p>All the things are working fine on my part of front-end. Things are working in systematic way, just need add some fixes in google map.</p>
  
- <h2>What went well?</h2>
+ <h2>What went wrong?</h2>
+ <p>The plans of changing the technogy of not using react affected a lot on all aspects especially on directed studies and the time.</p>
+ 
+ <h2>What needs to be improved?</h2>
+ <p>Probably need a lot of coding practice. I am little slow in programming. I was learning react at my speed but with in between change of the project honestly I also lost the interest and started focusing on other things like working on front-end and managing the database.</p>
+ 
+ <h2>What is next?</h2>
+ <p>I will surely start reactjs again and also while doing this project I gained more interest in database, so I am going to work on data administration too.</p> 
+ 
+  <h2>What would be done differntly?</h2>
+  <p> Honestly working in this project I like to work on database maybe that would be the better thing I would have done in the first place.</p>
