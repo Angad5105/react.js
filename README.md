@@ -88,6 +88,33 @@ management principles. </p>
 <h1>Backlog</h1>
 
 <p>The difficilty we are facing right now is work load and time.
+ 
+ 
+ <h1>90% Progress Report</h1>
+ <h2>Summary</h2>
+ <p>We are working on project name Medler which is basically a pharmacy management system of sales and stocks which will be     used by various pharmasicst. In this project I am resposible for the front-end part using HTML, CSS, Bootstrap, Jquery and     managing the database at the back-end using php and Mysql.</p>
+ 
+ <h2>Retrospective</h2>
+ <p>As of now I am done with the login and signup page and mostly done with the home landing page part. Right now in home landing page I am workin on the contact form that it should be connected with the database and to add google maps where user will fill the address and the map will show the location.</p>
+ 
+ <img width="1246" alt="screen shot 2018-11-30 at 11 23 43 pm" src="https://user-images.githubusercontent.com/24455909/49325428-0b63f600-f4f7-11e8-9487-cabc6c814076.png">
+
+<h2>This Week</h2>
+<p> Right now I am working on contact form as well as the google maps. On the other hand I am also helping abhishek with the database to integrate them with the fusion charts.</p>
+
+ 
+ 
+ <h1>90% Progress Report</h1>
+ <h2>Summary</h2>
+ <p>We are working on project name Medler which is basically a pharmacy management system of sales and stocks which will be     used by various pharmasicst. In this project I am resposible for the front-end part using HTML, CSS, Bootstrap, Jquery and     managing the database at the back-end using php and Mysql.</p>
+ 
+ <h2>Retrospective</h2>
+ <p>As of now I am done with the login and signup page and mostly done with the home landing page part. Right now in home landing page I am workin on the contact form that it should be connected with the database and to add google maps where user will fill the address and the map will show the location.</p>
+ 
+ <img width="1246" alt="screen shot 2018-11-30 at 11 23 43 pm" src="https://user-images.githubusercontent.com/24455909/49325428-0b63f600-f4f7-11e8-9487-cabc6c814076.png">
+
+<h2>This Week</h2>
+<p> Right now I am working on contact form as well as the google maps. On the other hand I am also helping param of making other console where user can see all the details of the nedicine when they will click on the particular graph.</p>
 
 
 <h1>95% Progress Report</h1>
