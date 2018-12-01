@@ -100,6 +100,9 @@ management principles. </p>
 <p>As of now we are almost done with our project, just few things left like:</p>
    <p>1: Connecting home landing page with our back-end so that we can make a demo of fully functional demo of login and signup.</p>
    <p>2: On the other hand I am working on fully functional google maps to show that in our contact form.</p>
+   
+   <img width="1260" alt="screen shot 2018-11-30 at 4 16 10 pm" src="https://user-images.githubusercontent.com/24455909/49321282-53fdbe00-f4bb-11e8-944c-5e996b67090e.png">
+
 
 <h2>This Week</h2>
 <p> As tyler suggested me to make some changes in styles of the front-end, so going to do that.</p>
