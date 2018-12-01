@@ -95,16 +95,27 @@ management principles. </p>
  <p>We are working on project name Medler which is basically a pharmacy management system of sales and stocks which will be     used by various pharmasicst. In this project I am resposible for the front-end part using HTML, CSS, Bootstrap, Jquery and     managing the database at the back-end using php and Mysql.</p>
  
  <h2>Retrospective</h2>
- <p>As of now I am done with the login and signup page and mostly done with the home landing page part. Right now in home landing page I am workin on the contact form that it should be connected with the database and to add google maps where user will fill the address and the map will show the location.</p>
+ <p>Right now I am working on the home landing page adding more features and also helping the team in building the database.  As well as I am also working with abhishek for the login and signup validation in javascript.</p>
  
- <img width="1246" alt="screen shot 2018-11-30 at 11 23 43 pm" src="https://user-images.githubusercontent.com/24455909/49325428-0b63f600-f4f7-11e8-9487-cabc6c814076.png">
-
+ <img width="837" alt="screen shot 2018-12-01 at 12 10 42 am" src="https://user-images.githubusercontent.com/24455909/49325819-921bd180-f4fd-11e8-9460-0865b590f518.png">
+ 
+ <img width="674" alt="screen shot 2018-12-01 at 12 09 29 am" src="https://user-images.githubusercontent.com/24455909/49325814-64cf2380-f4fd-11e8-9929-c0b229888a05.png">
+ 
 <h2>This Week</h2>
-<p> Right now I am working on contact form as well as the google maps. On the other hand I am also helping abhishek with the database to integrate them with the fusion charts.</p>
+<p> Right now I am working on Home landing page. On the other hand I am also helping abhishek with the database and the validation on login and signup.</p>
 
- <h2>What went wrong?</h2>
- <p></p>
+ <h2>What needs to be improved?</h2>
+ <p>1: Coding Skill</p>
+ <p>2: Time Management</p>
  
+ <h2>What is next?</h2>
+ <p>Next will be the completion of home page and adding google maps in the contact form.</p>
+ 
+ <h2>Product Backlog</h2>
+ 
+ <img width="935" alt="screen shot 2018-12-01 at 12 17 12 am" src="https://user-images.githubusercontent.com/24455909/49325874-7b29af00-f4fe-11e8-8ca3-154d25b5e836.png">
+
+
  <h1>90% Progress Report</h1>
  <h2>Summary</h2>
  <p>We are working on project name Medler which is basically a pharmacy management system of sales and stocks which will be     used by various pharmasicst. In this project I am resposible for the front-end part using HTML, CSS, Bootstrap, Jquery and     managing the database at the back-end using php and Mysql.</p>
