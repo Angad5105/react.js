@@ -89,6 +89,29 @@ management principles. </p>
 
 <p>The difficilty we are facing right now is work load and time.
  
+ <h1>60% Progress Report</h1>
+ <h2>Summary</h2>
+ <p>We are working on project name Medler which is basically a pharmacy management system of sales and stocks which will be     used by various pharmasicst. In this project I am resposible for the front-end part using HTML, CSS, Bootstrap, Jquery and     managing the database at the back-end using php and Mysql.</p>
+ 
+ <h2>Retrospective</h2>
+ <p>As of now the team has decided not to continue with the react as we are facing difficulty to integrate react with php and because of that I have to work on the front-end again and continue to work on the parts that were divided in the begining of the project.</p>
+ 
+ <img width="837" alt="screen shot 2018-12-01 at 12 10 42 am" src="https://user-images.githubusercontent.com/24455909/49325819-921bd180-f4fd-11e8-9460-0865b590f518.png">
+ 
+ <img width="1404" alt="screen shot 2018-11-29 at 11 41 35 am" src="https://user-images.githubusercontent.com/24455909/49326276-ad3e0f80-f504-11e8-8478-d2d635855bef.png">
+ 
+ <p>Although we are still working on fusion charts with php</p>
+ 
+ ![tabetview](https://user-images.githubusercontent.com/24455909/49326291-db235400-f504-11e8-85e8-72e313e882d7.png)
+
+ 
+<h2>This Week</h2>
+<p> Right now I am working on Home landing page. On the other hand I am also helping abhishek with the database and the validation on login and signup.</p>
+
+ <h2>What needs to be improved?</h2>
+ <p>1: Coding Skill</p>
+ <p>2: Time Management</p>
+ 
  
  <h1>80% Progress Report</h1>
  <h2>Summary</h2>
