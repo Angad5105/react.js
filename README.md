@@ -90,7 +90,7 @@ management principles. </p>
 <p>The difficilty we are facing right now is work load and time.
  
  
- <h1>90% Progress Report</h1>
+ <h1>80% Progress Report</h1>
  <h2>Summary</h2>
  <p>We are working on project name Medler which is basically a pharmacy management system of sales and stocks which will be     used by various pharmasicst. In this project I am resposible for the front-end part using HTML, CSS, Bootstrap, Jquery and     managing the database at the back-end using php and Mysql.</p>
  
@@ -102,7 +102,8 @@ management principles. </p>
 <h2>This Week</h2>
 <p> Right now I am working on contact form as well as the google maps. On the other hand I am also helping abhishek with the database to integrate them with the fusion charts.</p>
 
- 
+ <h2>What went wrong?</h2>
+ <p></p>
  
  <h1>90% Progress Report</h1>
  <h2>Summary</h2>
@@ -114,7 +115,28 @@ management principles. </p>
  <img width="1246" alt="screen shot 2018-11-30 at 11 23 43 pm" src="https://user-images.githubusercontent.com/24455909/49325428-0b63f600-f4f7-11e8-9487-cabc6c814076.png">
 
 <h2>This Week</h2>
-<p> Right now I am working on contact form as well as the google maps. On the other hand I am also helping param of making other console where user can see all the details of the nedicine when they will click on the particular graph.</p>
+<p> Right now I am working on contact form as well as the google maps. On the other hand I am also helping param of making other console where user can see all the details of the nedicine when they will click on the particular graph. Some style changes needs to be made.</p>
+
+<h2>What went well?</h2>
+ <p>This week we almost reviewd the project and we got a positive review about it and came to know the little add on things to do.</p>
+ 
+ <h2>What went wrong?</h2>
+ <p>There is not much rather than less time.</p>
+ 
+ <h2>What needs to be improved?</h2>
+ <p>1: Programming practice</p>
+ <p>2: Team Coordination</p>
+ 
+  <h2>What is next?</h2>
+ <p>I will most probably will be done by google maps and the styling of the front page.</p>
+ 
+ <h2>What was interesting?</h2>
+  <p>Working with the database was the I really enjoyed to work onn as there is so much to learn.</p>
+  
+   <h2>Product Backlog</h2>
+   
+   <img width="933" alt="screen shot 2018-12-01 at 12 01 30 am" src="https://user-images.githubusercontent.com/24455909/49325739-49174d80-f4fc-11e8-8b69-087a94623e6a.png">
+
 
 
 <h1>95% Progress Report</h1>
