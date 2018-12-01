@@ -96,8 +96,12 @@ management principles. </p>
  <h2>Retrospective</h2>
  <p>As of now the team has decided not to continue with the react as we are facing difficulty to integrate react with php and because of that I have to work on the front-end again and continue to work on the parts that were divided in the begining of the project.</p>
  
+  <p>1: Login and Signup</p>
+ 
  <img width="837" alt="screen shot 2018-12-01 at 12 10 42 am" src="https://user-images.githubusercontent.com/24455909/49325819-921bd180-f4fd-11e8-9460-0865b590f518.png">
  
+  <p>2: Home Landing Page</p>
+  
  <img width="1404" alt="screen shot 2018-11-29 at 11 41 35 am" src="https://user-images.githubusercontent.com/24455909/49326276-ad3e0f80-f504-11e8-8478-d2d635855bef.png">
  
  <p>Although we are still working on fusion charts with php</p>
@@ -106,11 +110,22 @@ management principles. </p>
 
  
 <h2>This Week</h2>
-<p> Right now I am working on Home landing page. On the other hand I am also helping abhishek with the database and the validation on login and signup.</p>
+<p> This week I am continuing with the home landing page as well as the database.</p>
 
  <h2>What needs to be improved?</h2>
  <p>1: Coding Skill</p>
  <p>2: Time Management</p>
+ 
+ <h2>What went wrong?</h2>
+ <p>Sudden change of technology is the reason of more pressure and time. On the other hand there is no use of react now as we started the project with that.</p>
+ 
+ <h2>What went well?</h2>
+ <p>We got to know the problem early and we can still make it to the final project.</p>
+ 
+ <h2>Product Backlog</h2>
+ 
+ <img width="932" alt="screen shot 2018-12-01 at 1 14 44 am" src="https://user-images.githubusercontent.com/24455909/49326396-841e7e80-f506-11e8-825c-61bca8abddc8.png">
+
  
  
  <h1>80% Progress Report</h1>
