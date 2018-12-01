@@ -119,7 +119,7 @@ management principles. </p>
  <h2>What is next?</h2>
  <p>I will surely start reactjs again and also while doing this project I gained more interest in database, so I am going to work on data administration too.</p> 
  
-  <h2>What would be done differntly?</h2>
+  <h2>What would be done differently?</h2>
   <p> Honestly working in this project I like to work on database maybe that would be the better thing I would have done in the first place.</p>
   
   
