@@ -329,7 +329,7 @@ lynda.com and Youtube. I have decided to continue with the react.</p>
 <p>I need to dedicate more time in my coding practice so I can fit in the industy level.</p>
 <p>Also I will be learning database as while working in the project I liked the part of managing database, so that is something I will look forward to.</p>
 
-<h2>Retrospective lof the Journey</h2>
+<h2>Retrospective of the Journey</h2>
 <p>It was a journey of great learning process through this time of 12 weeks. I learned many new things like more concepts of javascript and CSS, MySql, Php as in this project I worked mostly on front-end but helped in managing database too.</p>
 <p>In the future I would like to learn React from where I left and also redux. Also I will try to work hard on my coding skills so that I can put efforts to the project in the next term.</p>
 
