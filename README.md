@@ -303,3 +303,26 @@ lynda.com and Youtube. I have decided to continue with the react.</p>
  
  <img width="933" alt="screen shot 2018-11-30 at 4 54 42 pm" src="https://user-images.githubusercontent.com/24455909/49322087-d3da5700-f4c0-11e8-9aad-a3e5dba0279c.png">
 
+
+<h1>Final Check-in, Retrospective</h1>
+
+
+<h2>Summary</h2>
+<p>We were working on project name Medler which is basically a pharmacy management system of sales and stocks which will be used by various pharmasicst. In this project I am resposible for the front-end part using HTML, CSS, Bootstrap, Jquery and managing the database at the back-end using php and Mysql.</p>
+
+<img width="1404" alt="screen shot 2018-11-29 at 11 41 35 am" src="https://user-images.githubusercontent.com/24455909/49683642-e9c9b800-fa7c-11e8-84b1-adc52cf40009.png">
+
+<p>This is the final post of this subject. During the project time the team decided not to use react, that created a big change and we have to do it in a another way. </p>
+
+ 
+<h2>What worked well?</h2>
+<p>After changing the plan we innovate to how to finish the project and then it was my responsibility to develop front-end and that gave me a confidence in development because I lack in programming, I learn slow but I try hard to make this and it cleared lot of my concepts.</p>
+
+<h2>Retrospective last week</h2>
+<p>1: I helped the team to merge all the contents of the project.</p>
+<p>2: I created the demo video of the project as a backup if something dosn't work at the time of presentation.</p>
+<p>3: Screenshots</p>
+
+![artboard 1](https://user-images.githubusercontent.com/24455909/49683918-0ec02a00-fa81-11e8-94f2-39c4b341f04c.jpg)
+
+h2>Retrospective last week</h2>
