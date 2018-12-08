@@ -325,4 +325,13 @@ lynda.com and Youtube. I have decided to continue with the react.</p>
 
 ![artboard 1](https://user-images.githubusercontent.com/24455909/49683918-0ec02a00-fa81-11e8-94f2-39c4b341f04c.jpg)
 
-h2>Retrospective last week</h2>
+<h2>What needs to be improved & what I would do different?</h2>
+<p>I need to dedicate more time in my coding practice so I can react to the industy level.</p>
+<p>Also I will be learning database as while working in the project I liked the part of managing database, so that is something I will look forward to.</p>
+
+<h2>Retrospective lof the Journey</h2>
+<p>It was a journey of great learning process through this time of 12 weeks. I learned many new things like more concepts of javascript and CSS, MySql, Php as in this project I worked mostly on front-end but helped in managing database too.</p>
+<p>In the future I would like to learn React from where I left and also redux. Also I will try to work hard on my coding skills so that I can put efforts to the project in the next term.</p>
+
+<h2>Backlog</h2>
+
